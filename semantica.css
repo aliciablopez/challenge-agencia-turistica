@@ -1,0 +1,69 @@
+/*Reset CSS*/
+/*---Reset CSS*/
+* {margin: 0; padding:0;}
+* ,* ::before,* ::after {box-sizing:border-box;}
+input, button, textarea, select{font:inherit;}
+p{text-wrap:pretty;}
+h1,h2,h3,h4,h5,h6 {text-wrap: balance;}
+img, video,svg {height:auto; max-width:100%;}
+body {min-height:100;}
+/*Fuentes*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+
+}
+header{
+
+}
+/*Elementos del header*/
+#encabezado{
+
+}
+#encabezado_logo{
+
+}
+#encabezado_menu{
+
+}
+#encabezado_paisaje{
+
+}
+/*Elementos del aside*/
+aside{
+
+}
+button{
+
+}
+
+main{
+
+}
+h1{
+
+}
+h2{
+
+}
+.descripcion{
+
+}
+/*Elementos de las secciones*/
+section{
+
+}
+/*Elementos de los  artículos*/
+.tarjeta{
+
+}
+.tarjeta_imagen{
+
+}
+.tarjeta_traslado{
+
+}
+.tarjeta_destino{
+
+}
+
