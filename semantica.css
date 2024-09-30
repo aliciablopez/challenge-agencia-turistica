@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
 /*Reset CSS*/
 /*---Reset CSS*/
 * {margin: 0; padding:0;}
@@ -8,13 +12,24 @@ h1,h2,h3,h4,h5,h6 {text-wrap: balance;}
 img, video,svg {height:auto; max-width:100%;}
 body {min-height:100;}
 /*Fuentes*/
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+/*---Variables CSS---*/
 
 /*---Etiquetas---*/
 body{
 
 }
 header{
+  background: var(--negro);
+  width: 100%;
+  padding: 40px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  height: 60px;
 
 }
 
@@ -52,9 +67,6 @@ footer{
 
 /*---Clases del header---*/
 
-#encabezado{
-
-}
 #encabezado_logo{
 
 }
