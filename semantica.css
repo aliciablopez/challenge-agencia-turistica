@@ -10,13 +10,48 @@ body {min-height:100;}
 /*Fuentes*/
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+/*---Etiquetas---*/
 body{
 
 }
 header{
 
 }
-/*Elementos del header*/
+
+aside{
+
+}
+
+button{
+
+}
+
+main{
+
+}
+
+h1{
+
+}
+
+h2{
+
+}
+
+ol{
+
+}
+
+section{
+
+}
+
+footer{
+
+}
+
+/*---Clases del header---*/
+
 #encabezado{
 
 }
@@ -29,31 +64,13 @@ header{
 #encabezado_paisaje{
 
 }
-/*Elementos del aside*/
-aside{
 
-}
-button{
-
-}
-
-main{
-
-}
-h1{
-
-}
-h2{
-
-}
+/*---Clases del main---*/
 .descripcion{
 
 }
-/*Elementos de las secciones*/
-section{
+/*---Clases del article---*/
 
-}
-/*Elementos de los  artículos*/
 .tarjeta{
 
 }
@@ -64,6 +81,11 @@ section{
 
 }
 .tarjeta_destino{
+
+}
+
+/*--Clases del Footer*/
+.footer__css{
 
 }
 
